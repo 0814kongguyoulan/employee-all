@@ -1,0 +1,8 @@
+[submodule "spring-boot-demo"]
+	path = spring-boot-demo
+	url = https://github.com/0814kongguyoulan/java-test.git
+	branch = dev
+[submodule "employee-web"]
+	path = employee-web
+	url = https://github.com/0814kongguyoulan/employee-front.git
+	branch = dev
