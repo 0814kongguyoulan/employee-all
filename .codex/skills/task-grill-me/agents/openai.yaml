@@ -1,0 +1,6 @@
+interface:
+  display_name: "Task Grill Me"
+  short_description: "澄清员工系统需求并拆分前后端任务与工时"
+  default_prompt: "使用 $task-grill-me 澄清这个 employee-all 需求，检查前后端影响面并输出任务拆分和工时预估。"
+policy:
+  allow_implicit_invocation: true

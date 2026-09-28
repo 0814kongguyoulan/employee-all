@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Coding"
+  short_description: "管理员工系统前后端需求的完整 AI 开发生命周期"
+  default_prompt: "使用 $ai-coding 为这个 employee-all 需求启动或恢复完整开发流程。"
+policy:
+  allow_implicit_invocation: true
